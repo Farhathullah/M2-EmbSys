@@ -8,4 +8,17 @@ In India, there are about 5 million people affected with epilepsy. The overall p
 
 
 Epileptic seizures are classified in to three groups, Generalized Onset seizures(Absence seizure, Tonic-conic seizures), Focal Onset seizures (simple focal seizures, complex focal seizure) and Unknown Onset seizures. Partial seizures arise from a discrete focus, such as a cortical malformation ortumor, without loss of consciousness. Primary Generalized seizures appear to originate from abnormal oscillations in thalamocortical loops.
+# Swot Analysis
+# Strengths
+Compact
+Portable
+Light weight
+Highly efficient
+Cost effective
+Less maintenance required
+Risk free and easy touse
+# Weakness
+Any sudden movement can be registered as a seizure event.
+Current design can do not measure repetitivemovements of the body at all time.
+
 
