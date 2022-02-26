@@ -25,6 +25,8 @@ Less maintenance required
 Risk free and easy touse
 # Weakness
 Any sudden movement can be registered as a seizure event.
+
 Current design can do not measure repetitivemovements of the body at all time.
+
 
 
