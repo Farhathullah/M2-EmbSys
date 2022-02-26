@@ -11,11 +11,17 @@ Epileptic seizures are classified in to three groups, Generalized Onset seizures
 # Swot Analysis
 # Strengths
 Compact
+
 Portable
+
 Light weight
+
 Highly efficient
+
 Cost effective
+
 Less maintenance required
+
 Risk free and easy touse
 # Weakness
 Any sudden movement can be registered as a seizure event.
