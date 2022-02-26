@@ -27,6 +27,19 @@ Risk free and easy touse
 Any sudden movement can be registered as a seizure event.
 
 Current design can do not measure repetitivemovements of the body at all time.
+## High Level Requirements
+| **<h3> ID** | **<h3>Description**                                              | <h3>Status      |    
+|-------------|--------------------------------------------------------------|------------- |
+ | Patient Activities|-It includes patient records,patient information  | Implemented    |
+| Adminstration     |It includes room informtion,general adminstration| Implemented    |
+|  Payment Details       |It includes patient payment details,pay recipts etc| future    |
+##  Low level Requirements
+ | **<h3> ID** | **<h3>Description**                                              | <h3>Status      |    
+|-------------|--------------------------------------------------------------|------------- |
+ | security|It should secure because  only authorized user or receptionist can this system  | Implemented    |
+| platform     |The system can be work on any operating system like windows or linus| Implemented    |
+|  Performanace       |The system should handles the large amount patients data| Implemented    |
+
 
 
 
